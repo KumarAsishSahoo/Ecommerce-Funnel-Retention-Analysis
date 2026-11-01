@@ -1,4 +1,4 @@
-# 🛒 E-Commerce Sales Analytics
+# 🛒 Ecommerce-Funnel-Retention-Analysis
 ### Funnel Analysis | Customer Behaviour | Sales Performance
 
 <p align="center">
