@@ -126,6 +126,7 @@ The project includes interactive dashboards covering sales performance, customer
 
 ### Dashboard – Page 1
 **Sales & Revenue Performance**
+
 <img width="588" height="329" alt="Screenshot 2026-11-01 235211" src="https://github.com/user-attachments/assets/d6c880b8-1b99-4302-983b-d6a910070498" />
 
 
