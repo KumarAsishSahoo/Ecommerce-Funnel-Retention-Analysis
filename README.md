@@ -125,13 +125,12 @@ Revenue demonstrated an upward trend from January to June 2025, with June record
 The project includes interactive dashboards covering sales performance, customer behaviour, acquisition channels, and conversion funnel metrics.
 
 ### Dashboard – Page 1
-**E-commerce Funnel & Customer Behaviour**
-
+**Sales & Revenue Performance**
 <img width="588" height="329" alt="Screenshot 2026-11-01 235211" src="https://github.com/user-attachments/assets/d6c880b8-1b99-4302-983b-d6a910070498" />
 
 
 ### Dashboard – Page 2
-**Sales & Revenue Performance**
+**E-commerce Funnel & Customer Behaviour**
 
 <img width="577" height="323" alt="Screenshot 2026-11-01 235255" src="https://github.com/user-attachments/assets/1ed592e7-ced8-418d-88cc-1feb359898b2" />
 
